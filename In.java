@@ -46,6 +46,7 @@ import java.util.regex.Pattern;
  *  @author David Pritchard
  *  @author Robert Sedgewick
  *  @author Kevin Wayne
+ *  new comment
  */
 public final class In {
     
